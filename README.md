@@ -20,7 +20,7 @@ While I may have more projects on game, I'm also constantly learning software de
 
 <hr>
 <h2 align="center">🔥 Tools & Technologies 🔥</h2>
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
@@ -127,7 +127,7 @@ While I may have more projects on game, I'm also constantly learning software de
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/jeeliang/Multiplayer-Rock-Paper-Scissor" title="Multiplayer Rock Paper Scissor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jeeliang&repo=Multiplayer-Rock-Paper-Scissor&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/jeeliang/Multiplayer-Rock-Paper-Scissor" title="Multiplayer Rock Paper Scissor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jeeliang&repo=Multiplayer-Rock-Paper-Scissor&theme=react&border_color=61dafb&border_radius=10&description_lines_count=1"></a>
   <a align="right" href="https://github.com/jeeliang/VTK_FlowVisualisation" title="VTK FLow Visualistion"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jeeliang&repo=VTK_FlowVisualisation&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
